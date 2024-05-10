@@ -1,0 +1,17 @@
+[
+    {
+	"szerző": "Stephen King",
+	"cím": "Setét torony 1",
+	"kép": "stephenKing.jpg"
+    },
+    {
+	"szerző": "George R.R. Martin",
+	"cím": "Trónok harca 3.",
+	"kép": "grrMartin.jpg"
+    },
+    {
+	"szerző": "Isaac Asimov",
+	"cím": "Én, a robot",
+	"kép": "iassimov.jpg"
+    }
+]
